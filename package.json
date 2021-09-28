@@ -1,0 +1,18 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.1",
+  "description": "It's a simple multiplication table with a text file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saul Martinez",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
